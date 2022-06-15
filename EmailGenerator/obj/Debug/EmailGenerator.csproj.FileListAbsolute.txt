@@ -1,0 +1,8 @@
+C:\Users\delso\source\repos\EmailGenerator\EmailGenerator\bin\Debug\EmailGenerator.exe.config
+C:\Users\delso\source\repos\EmailGenerator\EmailGenerator\bin\Debug\EmailGenerator.exe
+C:\Users\delso\source\repos\EmailGenerator\EmailGenerator\bin\Debug\EmailGenerator.pdb
+C:\Users\delso\source\repos\EmailGenerator\EmailGenerator\obj\Debug\EmailGenerator.csproj.AssemblyReference.cache
+C:\Users\delso\source\repos\EmailGenerator\EmailGenerator\obj\Debug\EmailGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\delso\source\repos\EmailGenerator\EmailGenerator\obj\Debug\EmailGenerator.csproj.CoreCompileInputs.cache
+C:\Users\delso\source\repos\EmailGenerator\EmailGenerator\obj\Debug\EmailGenerator.exe
+C:\Users\delso\source\repos\EmailGenerator\EmailGenerator\obj\Debug\EmailGenerator.pdb
